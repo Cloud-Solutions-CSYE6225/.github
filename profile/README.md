@@ -1,13 +1,15 @@
-## Infrastructure and Web Application Overview
- 
+# Infrastructure and Web Application Overview
 
-<!--
+## Overview
 
-**Here are some ideas to get you started:**
+This organization consists of three core repositories, each contributing to the deployment and functionality of a cloud-based web application:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 1. TF AWS Infra
+- Manages cloud infrastructure using **Terraform** for provisioning **AWS** services and resources.
+
+### 2. WebApp
+- Hosts the **Spring Boot**-based web application, designed to run on the AWS infrastructure provisioned by Terraform.
+
+### 3. Serverless
+- Implements **serverless**, event-driven components for email verification, using **AWS Lambda** functions and the **Mailgun API**.
+
