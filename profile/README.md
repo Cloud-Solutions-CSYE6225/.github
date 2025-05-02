@@ -37,7 +37,8 @@ The goal of this repository is to provide a scalable and secure foundation for r
 
 ---
 
-## 2. WebApp
+## 2. WebApp  
+👉 [View Repository](https://github.com/Cloud-Solutions-CSYE6225/webapp)
 
 The **WebApp** repository contains the source code for a Spring Boot web application designed to run seamlessly on the AWS infrastructure set up by TF AWS Infra.
 
