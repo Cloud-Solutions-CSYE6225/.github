@@ -17,7 +17,9 @@ This organization consists of three core repositories, each contributing to the 
 
 # Repositories
 
-## 1. TF AWS Infra
+## 1. TF AWS Infra  
+👉 [View Repository](https://github.com/Cloud-Solutions-CSYE6225/tf-aws-infra)
+
 
 The **TF AWS Infra** repository is dedicated to managing the cloud infrastructure required to run the CSYE 6225 web application. Using Infrastructure as Code (IaC) with Terraform, this repository automates the deployment of all necessary AWS resources, including:
 
@@ -56,6 +58,7 @@ This repository is responsible for delivering the application logic and services
 ---
 
 ## 3. Serverless
+👉 [View Repository](https://github.com/Cloud-Solutions-CSYE6225/serverless)
 
 The **Serverless** repository contains the source code for a Spring-based application designed to run seamlessly on the AWS Lambda set up by TF AWS Infra.
 
