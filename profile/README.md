@@ -13,3 +13,4 @@ This organization consists of three core repositories, each contributing to the 
 ### 3. Serverless
 - Implements **serverless**, event-driven components for email verification, using **AWS Lambda** functions and the **Mailgun API**.
 
+![image](https://github.com/user-attachments/assets/2fcc2379-da57-430d-8099-c1388b80958c)
